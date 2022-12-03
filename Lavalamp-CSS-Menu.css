@@ -2,7 +2,7 @@ nav {
 	margin: 0px auto 0;
 
 	position: relative;
-	width: 360px;
+	width: 350px;
 	height: 50px;
 	background-color: #34495e;
 	border-radius: 8px;
@@ -30,43 +30,43 @@ nav .animation {
 	border-radius: 0px;
 }
 a:nth-child(1) {
-	width: 72px;
+	width: 70px;
 }
 a:nth-child(2) {
-	width: 72px;
+	width: 70px;
 }
 a:nth-child(3) {
-	width: 72px;
+	width: 70px;
 }
 a:nth-child(4) {
-	width: 72px;
+	width: 70px;
 }
 a:nth-child(5) {
-	width: 72px;
+	width: 70px;
 }
 nav .start-home, a:nth-child(1):hover~.animation {
-	width: 72px;
+	width: 70px;
 	left: 0;
 	background-color: #1abc9c;
 }
 nav .start-about, a:nth-child(2):hover~.animation {
-	width: 72px;
-	left: 72px;
+	width: 70px;
+	left: 70px;
 	background-color: #e74c3c;
 }
 nav .start-blog, a:nth-child(3):hover~.animation {
-	width: 72px;
-	left: 144px;
+	width: 70px;
+	left: 140px;
 	background-color: #3498db;
 }
 nav .start-portefolio, a:nth-child(4):hover~.animation {
-	width: 72px;
-	left: 216px;
+	width: 70px;
+	left: 210px;
 	background-color: #9b59b6;
 }
 nav .start-contact, a:nth-child(5):hover~.animation {
-	width: 72px;
-	left: 288px;
+	width: 70px;
+	left: 280px;
 	background-color: #e67e22;
 }
 
