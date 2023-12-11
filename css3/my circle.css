@@ -1,0 +1,67 @@
+@media only screen and (min-width: 200px) {
+  .squircle {
+    height: 80px;
+    width: 80px;
+    background-image: url('icons/n.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .s{
+    transition-delay: 0s;
+    display:block;
+    position: absolute;
+    top: 12%;
+    width: 98%;
+    height: 75%;
+    opacity: 1;
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width: 496px) {
+  .squircle {
+    height: 90px;
+    width: 90px;
+    background-image: url('icons/n.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .s{
+    transition-delay: 0s;
+    display:block;
+    position: absolute;
+    top: 11%;
+    width: 98%;
+    height: 75%;
+    opacity: 1;
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width: 612px) {
+  .squircle {
+    height: 150px;
+    width: 150px;
+    background-image: url('icons/n.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+  }
+
+  .s{
+    transition-delay: 0s;
+    display:block;
+    position: absolute;
+    top: 8%;
+    width: 98%;
+    height: 75%;
+    opacity: 1;
+    text-align: center;
+  }
+}
