@@ -1,0 +1,64 @@
+body{
+    background-color: #2c3e50;
+    background-image: url('backgrounds/pink.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.box{
+  display: inline;
+  width: 100px;
+  height: 70px;
+  padding: 8px;
+  border: 1px solid #2c3e50;
+  background-image: url('backgrounds/boop.png');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  animation: boop 1s;
+}
+
+.text2 {
+  transition-delay: 0s;
+  display:block;
+  position: absolute;
+  top: 1%;
+  width: 98%;
+  height: 50%;
+  opacity: 1;
+  text-align: center;
+  color: white;
+  font-family: rosmary;
+}
+
+@font-face { font-family: rosmary; src: url('Rosemary.ttf'); } 
+
+.text {
+  transition-delay: 0s;
+  display:block;
+  position: absolute;
+  top: 50%;
+  width: 98%;
+  height: 50%;
+  opacity: 1;
+  text-align: center;
+  color: white;
+  font-family: rosmary;
+}
+
+.big_talk{
+  transition-delay: 0s;
+  display:block;
+  position: absolute;
+  top: 25%;
+  width: 98%;
+  height: 75%;
+  opacity: 1;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+}
+
+  @keyframes boop{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
