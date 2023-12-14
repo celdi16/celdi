@@ -33,6 +33,7 @@ span::after {
   overflow: hidden;
   text-align: center;
   transition: height .4s ease;
+  justify-content: center;
 }
 
 .boope2{
