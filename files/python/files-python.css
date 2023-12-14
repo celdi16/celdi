@@ -1,0 +1,148 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-behavior: smooth;
+  font-family:'Helvetica Neue', sans-serif;
+}
+
+body{
+  background-color: #34495e;
+  background-size: cover;
+}
+
+.popover {
+ display:contents;
+ box-shadow: 0px 6px 8px rgba(19, 19, 19, .7);
+}
+
+.popover:target {
+position: absolute;
+right: 0;
+top: 0;
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.popover .content2 {
+  height: 80%;
+  width: 80%;
+  transition-delay: 1s;
+  display:block;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 0;
+  height: 0;
+  color: #fff;
+  background:transparent;
+  border: solid;
+  border-color: #34495e;
+  animation: 1s grow ease forwards;
+  text-align: center;
+}
+
+.popover .content {
+  height: 70%;
+  width: 70%;
+  transition-delay: 1s;
+  display:block;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 0;
+  height: 0;
+  color: #fff;
+  background: #34495e;
+  opacity: 0.5;
+  animation: 1s grow ease forwards;
+  text-align: center;
+}
+
+.box {
+  transition-delay: 1s;
+  display:block;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  background: #34495e;
+  opacity: 0.25;
+  text-align: center;
+  animation: img-out 1s;
+}
+
+.box:hover{
+  cursor: pointer;
+  animation: img-in 1s;
+  opacity: 1;
+}
+
+h2 {
+  color: black;
+  position: relative;
+  top: 15%;
+  padding: 1%;
+  opacity: 100%;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 4px black;
+  animation: hold-0 1s;
+}
+
+h1{
+  text-align: start;}
+
+.popover p {
+padding: 50px;
+opacity: 0;
+animation: 1s fadeIn ease forwards 1s;
+}
+
+@keyframes grow {
+100% {
+  height: 90%;
+  width: 90%;
+}
+}
+
+@keyframes fadeIn {
+100% {
+opacity: 1;
+}
+}
+
+@keyframes slideUp {
+100% {
+  transform: translateY(0);
+  opacity: 1;
+}
+}
+
+@keyframes hold-0{
+  0%{opacity: 0;}
+  50%{opacity: 0;}
+  100%{opacity: 1;}
+} 
+
+@keyframes img-in{
+  0%{opacity: 0.25;}
+  100%{opacity: 1;}
+}
+
+@keyframes img-out{
+  0%{opacity: 1;}
+  100%{opacity: 0.25;}
+}

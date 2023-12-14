@@ -1,0 +1,126 @@
+{
+    "name": "Kiriko theme",
+    "description": "If you installed this you actually need help ^(2)",
+    "authors": [
+        {
+            "name": "Nora Song",
+            "id": "i forgor"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFCBC2"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFCBC2"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#875851"
+        ],
+        "TEXT_LINK": [
+            "#FFB4B8"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFBBA8"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFDAD3"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#76534f"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#330713"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#330713"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#330713"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#330713"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#94473E"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#330713"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#330713"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#451712"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#220403"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#3D0604"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#B15F54"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#F09185"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#94473E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#220403"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#442616"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#fffff1"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#cd422f"
+        ],
+        "TEXT_DANGER": [
+            "#FF0000"
+        ],
+        "KEYBOARD": [
+            "#e01434"
+        ],
+        "CHANNEL_ICON": [
+            "#FFF5C7"
+        ],
+        "CHAT_BACKGROUND": [
+            "#220403"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#E27A5E"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#FFF5C7"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#FFDAD3",
+        "PRIMARY_200": "#4a2727",
+        "PRIMARY_300": "#e01434",
+        "PRIMARY_360": "#FFDAD3",
+        "PRIMARY_400": "#FFDAD3",
+        "PRIMARY_500": "#4a2727",
+        "PRIMARY_600": "#330713",
+        "PRIMARY_630": "#330713",
+        "PRIMARY_660": "#330713",
+        "PRIMARY_700": "#330713",
+        "PRIMARY_800": "#330713"
+    },
+    "spec": 2,
+    "background": {
+        "blur": 1,
+        "url": "https://celdi16.github.io/new-site/files/discord-themes/personal/kiriko.jpg",
+        "alpha": 0.3
+    
+    }
+}

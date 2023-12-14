@@ -1,0 +1,45 @@
+h1{
+	top: 20%;
+	left: 47.5%;
+}
+
+nav {
+  width : 300px; 
+  margin : 0px auto; 
+  animation: fadeIn 1s;
+}
+
+span {
+  animation: fadeIn 1s;
+  font-size : 1.2em;
+  font-variant : small-caps;
+  cursor : pointer;
+  display: block;
+}
+
+span::after {
+	animation: fadeIn 1s;
+  float: right;
+  right: 10%;
+  content: "";
+}
+
+.slide {
+  clear:both;
+  width:100%;
+  height:0px;
+  overflow: hidden;
+  text-align: center;
+  transition: height .4s ease;
+}
+
+.slide li {padding : 15px;}
+
+#touch {position: absolute; opacity: 0; height: 0px;}    
+
+#touch:checked + .slide {height: 245px;} 
+
+@keyframes fadeIn {
+	0%{opacity: 0;}
+	100% {opacity: 1;}
+	}

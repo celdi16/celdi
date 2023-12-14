@@ -1,0 +1,135 @@
+{
+	"name": "red and black",
+	"description": "im just having fun :)",
+	"authors": [
+		{
+			"name": "nora",
+			"id": "0"
+		}
+	],
+"semanticColors": {
+		"HEADER_PRIMARY": [
+			"#330003"
+		],
+"HEADER_SECONDARY": [
+			"#000000"
+		],
+"TEXT_NORMAL": [
+			"#ff1925"
+		],
+"TEXT_MUTED": [
+			"#000000"
+		],
+"TEXT_DANGER": [
+			"#ff0000"
+		],
+"TEXT_LINK": [
+			"#330003"
+		],
+"INTERACTIVE_NORMAL": [
+			"#000000"
+		],
+"INTERACTIVE_HOVER": [
+			"#330003"
+		],
+"INTERACTIVE_MUTED": [
+			"#330003"
+		],
+"INTERACTIVE_ACTIVE": [
+			"#190001"
+		],
+"BACKGROUND_PRIMARY": [
+			"#b30009"
+		],
+"BACKGROUND_SECONDARY": [
+			"#4d0004"
+		],
+"BACKGROUND_SECONDARY_ALT": [
+			"#4d0004"
+		],
+"BACKGROUND_TERTIARY": [
+			"#b30009"
+		],
+"BACKGROUND_ACCENT": [
+			"#cc000a"
+		],
+"BACKGROUND_FLOATING": [
+			"#4d0004"
+		],
+"BACKGROUND_MOBILE_PRIMARY": [
+			"#b30009"
+		],
+"BACKGROUND_MOBILE_SECONDARY": [
+			"#4d0004"
+		],
+"BACKGROUND_NESTED_FLOATING": [
+			"#b30009"
+		],
+"BACKGROUND_MESSAGE_HOVER": [
+			"#b30009"
+		],
+"BACKGROUND_MODIFIER_ACCENT": [
+			"#b30009"
+		],
+"SCROLLBAR_THIN_THUMB": [
+			"#b30009"
+		],
+"SCROLLBAR_THIN_TRACK": [
+			"transparent"
+		],
+"SCROLLBAR_AUTO_THUMB": [
+			"#4d0004"
+		],
+"SCROLLBAR_AUTO_TRACK": [
+			"#b30009"
+		],
+"KEYBOARD": [
+			"#b30009"
+		],
+"CHANNELTEXTAREA_BACKGROUND": [
+			"#330003"
+		],
+"CHANNEL_ICON": [
+			"#000000"
+		],
+"CHANNELS_DEFAULT": [
+			"#000000"
+		],
+"CHAT_BACKGROUND": [
+			"#b30009"
+		]
+	},
+	"rawColors":{
+		"PRIMARY": "#800007",
+		"PRIMARY_100": "#330003",
+		"PRIMARY_200": "#000000",
+		"PRIMARY_300": "#660005",
+		"PRIMARY_360": "#000000",
+		"PRIMARY_400": "#660005",
+		"PRIMARY_500": "#990008",
+		"PRIMARY_630": "#990008",
+		"PRIMARY_660": "#990008",
+		"PRIMARY_700": "#990008",
+		"PRIMARY_800": "#990008",
+		"PRIMARY_900": "#990008",
+		"YELLOW_300": "#990008",
+		"BRAND_260": "#660005",
+		"BRAND_360": "#660005",
+		"BRAND_500": "#4d0004",
+		"GREEN_360": "#660005",
+		"RED_400": "#e6000c",
+		"ORANGE_345": "#660005",
+		"RED_560": "#660005",
+		"GREEN_345": "#660005",
+		"BLUE_345": "#660005",
+		"WHITE_500": "#660005",
+		"PRIMARY_600": "#660005",
+		"BRAND_560": "#330003"
+	},
+	"background": {
+		"blur": 0,
+		"url": "https://celdi16.github.io/new-site/files/discord-themes/personal/1.jpeg",
+		"alpha": 0.48
+	},
+		"spec": 2
+}

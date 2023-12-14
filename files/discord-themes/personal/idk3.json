@@ -1,0 +1,135 @@
+{
+	"name": "idk3",
+	"description": "im just having fun :)",
+	"authors": [
+		{
+			"name": "nora",
+			"id": "0"
+		}
+	],
+"semanticColors": {
+		"HEADER_PRIMARY": [
+			"#f4b8e4"
+		],
+"HEADER_SECONDARY": [
+			"#f2d5cf"
+		],
+"TEXT_NORMAL": [
+			"#c6d0f5"
+		],
+"TEXT_MUTED": [
+			"#f2d5cf"
+		],
+"TEXT_DANGER": [
+			"#ff0000"
+		],
+"TEXT_LINK": [
+			"#f4b8e4"
+		],
+"INTERACTIVE_NORMAL": [
+			"#f2d5cf"
+		],
+"INTERACTIVE_HOVER": [
+			"#f4b8e4"
+		],
+"INTERACTIVE_MUTED": [
+			"#f4b8e4"
+		],
+"INTERACTIVE_ACTIVE": [
+			"#eebebe"
+		],
+"BACKGROUND_PRIMARY": [
+			"#e5c890"
+		],
+"BACKGROUND_SECONDARY": [
+			"#ca9ee6"
+		],
+"BACKGROUND_SECONDARY_ALT": [
+			"#ca9ee6"
+		],
+"BACKGROUND_TERTIARY": [
+			"#e5c890"
+		],
+"BACKGROUND_ACCENT": [
+			"#a6d189"
+		],
+"BACKGROUND_FLOATING": [
+			"#ca9ee6"
+		],
+"BACKGROUND_MOBILE_PRIMARY": [
+			"#e5c890"
+		],
+"BACKGROUND_MOBILE_SECONDARY": [
+			"#ca9ee6"
+		],
+"BACKGROUND_NESTED_FLOATING": [
+			"#e5c890"
+		],
+"BACKGROUND_MESSAGE_HOVER": [
+			"#e5c890"
+		],
+"BACKGROUND_MODIFIER_ACCENT": [
+			"#e5c890"
+		],
+"SCROLLBAR_THIN_THUMB": [
+			"#e5c890"
+		],
+"SCROLLBAR_THIN_TRACK": [
+			"transparent"
+		],
+"SCROLLBAR_AUTO_THUMB": [
+			"#ca9ee6"
+		],
+"SCROLLBAR_AUTO_TRACK": [
+			"#e5c890"
+		],
+"KEYBOARD": [
+			"#e5c890"
+		],
+"CHANNELTEXTAREA_BACKGROUND": [
+			"#f4b8e4"
+		],
+"CHANNEL_ICON": [
+			"#f2d5cf"
+		],
+"CHANNELS_DEFAULT": [
+			"#f2d5cf"
+		],
+"CHAT_BACKGROUND": [
+			"#e5c890"
+		]
+	},
+	"rawColors":{
+		"PRIMARY": "#ea999c",
+		"PRIMARY_100": "#f4b8e4",
+		"PRIMARY_200": "#f2d5cf",
+		"PRIMARY_300": "#e78284",
+		"PRIMARY_360": "#f2d5cf",
+		"PRIMARY_400": "#e78284",
+		"PRIMARY_500": "#ef9f76",
+		"PRIMARY_630": "#ef9f76",
+		"PRIMARY_660": "#ef9f76",
+		"PRIMARY_700": "#ef9f76",
+		"PRIMARY_800": "#ef9f76",
+		"PRIMARY_900": "#ef9f76",
+		"YELLOW_300": "#ef9f76",
+		"BRAND_260": "#e78284",
+		"BRAND_360": "#e78284",
+		"BRAND_500": "#ca9ee6",
+		"GREEN_360": "#e78284",
+		"RED_400": "#babbf1",
+		"ORANGE_345": "#e78284",
+		"RED_560": "#e78284",
+		"GREEN_345": "#e78284",
+		"BLUE_345": "#e78284",
+		"WHITE_500": "#e78284",
+		"PRIMARY_600": "#e78284",
+		"BRAND_560": "#f4b8e4"
+	},
+	"background": {
+		"blur": 0,
+		"url": "",
+		"alpha": 0.48
+	},
+		"spec": 2
+}

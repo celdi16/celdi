@@ -1,0 +1,135 @@
+{
+	"name": "stardew",
+	"description": "just making a theme :3",
+	"authors": [
+		{
+			"name": "nora",
+			"id": "0"
+		}
+	],
+"semanticColors": {
+		"HEADER_PRIMARY": [
+			"#E0D68A"
+		],
+"HEADER_SECONDARY": [
+			"#000000"
+		],
+"TEXT_NORMAL": [
+			"#ffffff"
+		],
+"TEXT_MUTED": [
+			"#000000"
+		],
+"TEXT_DANGER": [
+			"#ff0000"
+		],
+"TEXT_LINK": [
+			"#E0D68A"
+		],
+"INTERACTIVE_NORMAL": [
+			"#000000"
+		],
+"INTERACTIVE_HOVER": [
+			"#E0D68A"
+		],
+"INTERACTIVE_MUTED": [
+			"#E0D68A"
+		],
+"INTERACTIVE_ACTIVE": [
+			"#CB9173"
+		],
+"BACKGROUND_PRIMARY": [
+			"#8E443D"
+		],
+"BACKGROUND_SECONDARY": [
+			"#320A28"
+		],
+"BACKGROUND_SECONDARY_ALT": [
+			"#320A28"
+		],
+"BACKGROUND_TERTIARY": [
+			"#8E443D"
+		],
+"BACKGROUND_ACCENT": [
+			"#8E443D"
+		],
+"BACKGROUND_FLOATING": [
+			"#320A28"
+		],
+"BACKGROUND_MOBILE_PRIMARY": [
+			"#8E443D"
+		],
+"BACKGROUND_MOBILE_SECONDARY": [
+			"#320A28"
+		],
+"BACKGROUND_NESTED_FLOATING": [
+			"#8E443D"
+		],
+"BACKGROUND_MESSAGE_HOVER": [
+			"#8E443D"
+		],
+"BACKGROUND_MODIFIER_ACCENT": [
+			"#8E443D"
+		],
+"SCROLLBAR_THIN_THUMB": [
+			"#8E443D"
+		],
+"SCROLLBAR_THIN_TRACK": [
+			"transparent"
+		],
+"SCROLLBAR_AUTO_THUMB": [
+			"#320A28"
+		],
+"SCROLLBAR_AUTO_TRACK": [
+			"#8E443D"
+		],
+"KEYBOARD": [
+			"#8E443D"
+		],
+"CHANNELTEXTAREA_BACKGROUND": [
+			"#E0D68A"
+		],
+"CHANNEL_ICON": [
+			"#000000"
+		],
+"CHANNELS_DEFAULT": [
+			"#000000"
+		],
+"CHAT_BACKGROUND": [
+			"#8E443D"
+		]
+	},
+	"rawColors":{
+		"PRIMARY": "#511730",
+		"PRIMARY_100": "#E0D68A",
+		"PRIMARY_200": "#000000",
+		"PRIMARY_300": "#320A28",
+		"PRIMARY_360": "#000000",
+		"PRIMARY_400": "#320A28",
+		"PRIMARY_500": "#511730",
+		"PRIMARY_630": "#511730",
+		"PRIMARY_660": "#511730",
+		"PRIMARY_700": "#511730",
+		"PRIMARY_800": "#511730",
+		"PRIMARY_900": "#511730",
+		"YELLOW_300": "#511730",
+		"BRAND_260": "#320A28",
+		"BRAND_360": "#320A28",
+		"BRAND_500": "#320A28",
+		"GREEN_360": "#320A28",
+		"RED_400": "#CB9173",
+		"ORANGE_345": "#320A28",
+		"RED_560": "#320A28",
+		"GREEN_345": "#320A28",
+		"BLUE_345": "#320A28",
+		"WHITE_500": "#320A28",
+		"PRIMARY_600": "#320A28",
+		"BRAND_560": "#E0D68A"
+	},
+	"background": {
+		"blur": 0,
+		"url": "https://celdi16.github.io/new-site/files/discord-themes/stardew/1.jpg",
+		"alpha": 0.48
+	},
+		"spec": 2
+}

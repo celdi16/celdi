@@ -1,0 +1,8 @@
+ballsV2 is a program i wrote using python which draws dicks basically
+but to do this is uses what i named a .BALLS file (pretty cool right)
+all you need to do to make one of these is to select filewriter
+in the menu script (the main script which i intend to be used first
+as it access all the other scripts from it) or to select filewriter.py
+in the directory simple right! There are quite a few easter eggs hidden
+in this script though so try to find them without going through the code
+(that just takes all the fun out) ENJOY!
