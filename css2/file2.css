@@ -43,7 +43,7 @@ span::after {
 
 #touch2 {position: absolute; opacity: 0; height: 0px;}    
 
-#touch2:checked + .slide2 {height: 20%;} 
+#touch2:checked + .slide2 {height: 100%;} 
 
 @keyframes fadeIn {
 	0%{opacity: 0;}

@@ -2,7 +2,7 @@
   .squircle {
     height: 80px;
     width: 80px;
-    background-image: url('icons/n.jpg');
+    background-image: url('icons/n.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50%;
@@ -25,7 +25,7 @@
   .squircle {
     height: 90px;
     width: 90px;
-    background-image: url('icons/n.jpg');
+    background-image: url('icons/n.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50%;
@@ -48,7 +48,7 @@
   .squircle {
     height: 150px;
     width: 150px;
-    background-image: url('icons/n.jpg');
+    background-image: url('icons/n.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
