@@ -1,0 +1,72 @@
+html {
+	height: 100vh;
+	display: grid;
+	place-content: center;
+	-webkit-tap-highlight-color: transparent;
+  }
+  
+  .menu {
+	animation: hold-0 1.5s;
+	position: absolute;
+	top: 40px;
+	padding: 30px;
+	border-radius: 100%;
+	cursor: pointer;
+	&::after {
+	  content: "";
+	  background: url('cassettes/cassette.png') no-repeat 50%/50% transparent;
+	  border-radius: 0px;
+	  width: 130px;
+	  height: 25px;
+	  display: inline-flex;
+	  position: absolute;
+	  left: -58px;
+	  top: 10px;
+	  transition: 0.2s ease;
+	  z-index: 1;
+	}
+
+	&::after {
+	  transform: rotate(0deg);
+	}
+	&.open {
+	  opacity: .9;
+	  &::before {
+		transform: rotate(-45deg);
+	  }
+	  &::after {
+		transform: rotate(45deg);
+	  }
+	  .button {
+		opacity: 1;
+		pointer-events: auto;
+		&:last-of-type {
+		  bottom: -100px;
+		  right: 0px;
+		  background: url("") no-repeat 100%/100% transparent;
+		  transition-delay: .1s;
+		}
+	  }
+	}
+  }
+  
+  .button {
+	padding: 30px;
+	border-radius: 50%;
+	cursor: pointer;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	opacity: 0;
+	pointer-events: none;
+	transition: 0.2s cubic-bezier(0.18, 0.89, 0.32, 1.28), 0.2s ease opacity, 0.2s cubic-bezier(.08,.82,.17,1) transform;
+	&:hover {
+	  transform: scale(1.1);
+	}
+  }
+
+  @keyframes hold-0{
+	0%{opacity: 0;}
+	50%{opacity: 0;}
+	100%{opacity: 1;}
+  } 
